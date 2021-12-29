@@ -1,18 +1,18 @@
-<!--
-## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub vermakhushboo](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/vermakhushboo)
-[![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/verma-khushboo/)](https://www.linkedin.com/in/verma-khushboo/)
-[![Twitter: Khushboo Verma](https://img.shields.io/twitter/follow/khushbooverma_?style=social)](https://twitter.com/khushbooverma_)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=vermakhushboo&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@khushboo-verma)](https://medium.com/@khushboo-verma)
-[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/khushbooverma)](http://polywork.com/khushbooverma)
+## Hey! I'm Mahesh Bauri. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![GitHub mahesh-bauri](https://img.shields.io/github/followers/mahesh-bauri?label=follow&style=social)](https://github.com/vermakhushboo)
+[![Linkedin: Mahesh Bauri](https://img.shields.io/badge/-Mahesh%20Bauri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-bauri/)](https://www.linkedin.com/in/mahesh-bauri/)
+[![Twitter: Mahesh Bauri](https://img.shields.io/twitter/follow/MaheshBauri3_?style=social)](https://twitter.com/MaheshBauri3)
+
   
-I develop software, build technical communities, create content and love meeting new people! -->
 
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-bauri&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mahesh-bauri/github-readme-stats)
+[![Mahesh Bauri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-bauri&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mahesh-bauri/github-readme-stats)
 
+
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me: www.maheshbauri@gmail.com
 <!--
 👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
 
@@ -25,11 +25,9 @@ I develop software, build technical communities, create content and love meeting
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
