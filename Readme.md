@@ -1,9 +1,9 @@
 
 ## Hey! I'm Mahesh Bauri. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![GitHub mahesh-bauri](https://img.shields.io/github/followers/mahesh-bauri?label=follow&style=social)](https://github.com/vermakhushboo)
+[![GitHub mahesh-bauri](https://img.shields.io/github/followers/mahesh-bauri?label=follow&style=social)](https://github.com/mahesh-bauri)
 [![Linkedin: Mahesh Bauri](https://img.shields.io/badge/-Mahesh%20Bauri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-bauri/)](https://www.linkedin.com/in/mahesh-bauri/)
-[![Twitter: Mahesh Bauri](https://img.shields.io/twitter/follow/MaheshBauri3_?style=social)](https://twitter.com/MaheshBauri3)
+[![Twitter: Mahesh Bauri](https://img.shields.io/twitter/follow/MaheshBauri3?style=social)](https://twitter.com/MaheshBauri3)
 
   
 
