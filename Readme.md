@@ -11,7 +11,7 @@
 [![Mahesh Bauri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-bauri&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mahesh-bauri/github-readme-stats)
 
 
-- 🌱 I’m currently learning ReactJS Stack
+- 🌱 I’m currently learning ReactJS.
 - 📫 How to reach me: www.maheshbauri@gmail.com
 
 <!--
