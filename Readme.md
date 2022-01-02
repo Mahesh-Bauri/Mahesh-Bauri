@@ -11,16 +11,11 @@
 [![Mahesh Bauri GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-bauri&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/mahesh-bauri/github-readme-stats)
 
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning ReactJS Stack
 - 📫 How to reach me: www.maheshbauri@gmail.com
-<!--
-👇🏻 If you like what I do, support me by buying me a [book](https://www.buymeacoffee.com/khushbooverma) and add to my knowledge! 
 
-<a href="https://www.buymeacoffee.com/khushbooverma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Book" width="120" ></a>
-
--->
 <!--
-**vermakhushboo/vermakhushboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
