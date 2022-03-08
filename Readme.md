@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning ReactJS.
-- 📫 How to reach me: mahesh.bauri79@gmail.com
+- 📫 How to reach me: mahesh.bauri79@gmail.com / www.maheshbauri@gmail.com
 
 <!--
 
