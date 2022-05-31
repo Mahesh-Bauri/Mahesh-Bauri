@@ -4,7 +4,7 @@
 [![GitHub mahesh-bauri](https://img.shields.io/github/followers/mahesh-bauri?label=follow&style=social)](https://github.com/mahesh-bauri)
 [![Linkedin: Mahesh Bauri](https://img.shields.io/badge/-Mahesh%20Bauri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-bauri/)](https://www.linkedin.com/in/mahesh-bauri/)
 [![Twitter: Mahesh Bauri](https://img.shields.io/twitter/follow/MaheshBauri3?style=social)](https://twitter.com/MaheshBauri3)
-
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=MaheshBauri3&color=brightgreen">
   
 
 
