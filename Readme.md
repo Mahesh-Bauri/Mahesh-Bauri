@@ -29,7 +29,7 @@ I am a Full-stack Web Developer
  -->
  <br/>
  
-- 🌱 I’m currently learning **ReactJs and frontend-fundamentals**.
+- 🌱 I’m currently working as a **Frontend Developer Intern at Bytelearn Edtech startup(Remote)**.
 
 <!-- - 👨‍💻 All of my projects are available at [maheshbauri.me](maheshbauri.me) -->
 
@@ -38,7 +38,7 @@ I am a Full-stack Web Developer
 <!-- - 📄 Know about my experiences [resume link](resume link) -->
 - 🤔 I’m looking for **internship or full-time opportunity**
 
-- ⚡ Fun fact **I have very deep passion for technology and till now I am unemployed**.
+- ⚡ Fun fact **I have very deep passion for technology and till now I am intern at Bytelearn**.
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
