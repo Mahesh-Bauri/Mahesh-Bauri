@@ -17,7 +17,7 @@ I am a Full-stack Web Developer
  -->
 
 <h1 align="center">Hi 👋, I'm Mahesh Bauri</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"><b>I am a B.tech Graduate in Computer Science and Engineering from KKCEM in 2021. I have deep passion for technology. I am very enthusiastic to learn new things or technology. I am working on my skills to show my deep passion or ❤ for technology. Currently, exploring ReactJs and building projects. And improving my frontend skills like CSS, HTML, JavaScript, etc.<br>
   Thanks for visiting my profile.</b></p>
