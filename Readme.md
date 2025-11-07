@@ -26,7 +26,7 @@ I’m deeply passionate about crafting beautiful UIs, exploring cutting-edge web
 - 🌱 I’m currently exploring **Web performance** and **frontend design patterns**.
 - 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Redux Toolkit**, or **React Query**.
 - 📫 Reach me at: **[mahesh.bauri79@gmail.com](mailto:mahesh.bauri79@gmail.com)**
-- ⚡ Fun fact: I built and shipped two major frontend apps solo **[waxwing.ai](https://www.waxwing.ai/)** and **[reachplus.ai](https://reachplus.ai/)** 🚀.
+- ⚡ **Fun fact:** I’m the **first full-time employee and Frontend Engineer** at **WaxwingAI**, helping shape the entire product from the ground up 🚀  
 
 ---
 
